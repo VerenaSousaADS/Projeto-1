@@ -3,7 +3,7 @@
 
 ### Móveis Customizados
 
-<img src="images/image-projeto-finalizado/Desafio01" alt="Imagem do site contruido no projeto 01 do curso Explorer" />
+<img src="/images/image-projeto-finalizado/Desafio01.png" alt="Imagem do site contruido no projeto 01 do curso Explorer" />
 
 #### Aprendizados:
 
