@@ -3,7 +3,7 @@
 
 ### Móveis Customizados
 
-<img src="images/img1.jpg" alt="Desenho de uma pessoa vestindo uma camisa amarela em uma sala com Móveis" />
+<img src="images/image-projeto-finalizado/Desafio01" alt="Imagem do site contruido no projeto 01 do curso Explorer" />
 
 #### Aprendizados:
 
